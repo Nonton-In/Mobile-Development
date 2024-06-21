@@ -9,7 +9,7 @@ This section guides you through setting up and running the Nonton.in mobile app 
 
 Prerequisites:
 
-Android Studio: Download and install the latest version from the official website: https://developer.android.com/studio.
+Android Studio: Download and install the latest version from the official website: https://developer.android.com/studio. <br>
 Git: Ensure you have Git installed on your system. Download it from: https://www.git-scm.com/downloads.
 Steps:
 
